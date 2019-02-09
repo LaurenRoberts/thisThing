@@ -1,4 +1,29 @@
+*{font-family: 'Rambla', 'Lato', sans-serif;}
+
 body {
-    background-color: #ffaac7;
-    
+    background-color: #aad0ff;
+     margin-left: 8%;
+     margin-top: 5%;
+     margin-right: 10%;
 }
+.headers {
+    font-family: 'Rambla', sans-serif;
+}
+#navbar{
+    font-size: 30px;
+    background-color: #357dd6;
+    margin-top: 20px;
+    padding: 5px;
+}
+.about {
+    margin-left: 80px;
+}
+#h2about{
+    margin-bottom: 10px;
+}
+.about > .text{
+    background-color: #357dd6;
+    padding: 25px;
+    font-family: 'Lato', monospace
+}
+
