@@ -9,10 +9,14 @@ body {
 .headers {
     font-family: 'Rambla', sans-serif;
 }
+#this1 {
+    position: absolute;
+    z-index: -1;
+}
 #navbar{
     font-size: 30px;
     background-color: #357dd6;
-    margin-top: 20px;
+    margin-top: 420px;
     padding: 5px;
 }
 .about {
@@ -20,10 +24,11 @@ body {
 }
 #h2about{
     margin-bottom: 10px;
+    background-color: rgba(170, 208, 255, .15);
 }
 .about > .text{
     background-color: #357dd6;
     padding: 25px;
-    font-family: 'Lato', monospace
+    font-family: 'Lato', monospace;
 }
 
